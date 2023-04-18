@@ -1,2 +1,2 @@
 # Cinema-App
-A cinema booking app for my university project
+A small and simple cinema booking app for my university project
